@@ -12,14 +12,18 @@ author_profile: true
 <img align="left" style="float: left; padding-right: 30px;" src="/images/profile.png" width="140" height="140">  **Dr. Joan Zhang (PI)**
 <br/>
 Assistant Professor\
-(Here some description about Joan.)\
+<!---
+some discription about Joan here.
+-->
 [Email](mailto:qiongz@ust.hk) &nbsp; &nbsp; &nbsp; [CV](/files/JoanCV.pdf)
 
 <br/>
 <img align="left" style="float: left; padding-right: 30px;" src="/images/huangle.png" width="140" height="140">  **Le Huang**
 <br/>
 PhD Student\
-(Here some description about Le)\
+<!---
+some discription about Le here.
+-->
 [Email](mailto:lhuangbu@connect.ust.hk)
 
 <br/>
@@ -27,7 +31,9 @@ PhD Student\
 <br/>
 Research Assistant 
 <br/>
-(Here some description about Tong)
+<!---
+some discription about Tong here.
+-->
 
 
 
