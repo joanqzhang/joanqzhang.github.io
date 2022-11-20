@@ -9,7 +9,15 @@ author_profile: true
 {% include base_path %}
 
 
-People 
-======
+PI 
+------
+
+Postgraduate Students
+------
+
+Research Assistants
+------
+
+
 
 
