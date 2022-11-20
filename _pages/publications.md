@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Peer-reviewed Journals
+- Zhang, Q, EM Bendif, Y Zhou, B Nevado, R Shafiee, REM Rickaby. Declining metal availability in the Mesozoic seawater reflected in phytoplankton succession. 2022 _Nature Geoscience_ 15: 931-941 [(Link)](https://www.nature.com/articles/s41561-022-01053-7)
+
