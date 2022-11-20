@@ -9,14 +9,11 @@ author_profile: true
 {% include base_path %}
 
 
-PI 
-------
+<img align="left" style="float: left; padding-right: 30px;" src="/images/profile.png" width="120" height="120"> 
+###Dr. Joan Zhang### (PI)
+Here some description about Joan. 
 
-Postgraduate Students
-------
 
-Research Assistants
-------
 
 
 
