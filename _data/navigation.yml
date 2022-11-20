@@ -14,7 +14,10 @@ main:
     
   - title: "Publications"
     url: /publications/
-        
+    
+  - title: "Join us"
+    url:/joinus/
+    
   - title: "News"
     url: /news/
     
