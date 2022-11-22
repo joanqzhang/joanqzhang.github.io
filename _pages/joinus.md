@@ -3,7 +3,6 @@ layout: archive
 title: "Join Us"
 permalink: /joinus/
 author_profile: true
-
 ---
 
 {% include base_path %}
