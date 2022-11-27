@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Join"
+title: "Join Us"
 permalink: /joinus/
 author_profile: true
 ---
