@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is markdown file (md) that you can easily edit your webpage
+This is markdown file (md) that you can easily edit your webpages
 You can insert links directing to other papges within the website such as [*Research*](research.md)
 or other website such as [*OCES website*](https://oces.hkust.edu.hk)
 
