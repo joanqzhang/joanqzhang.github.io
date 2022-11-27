@@ -19,7 +19,7 @@ Text here text here text here\
 text here text here text here
 
 ### Header three
-text here text here text here 
+text here text here text here\
 <img align="left" src="/images/LakeSuperior.png" width="240" height="180"> 
 You can set the size of the images by using html to insert the image.  
 <br/>
