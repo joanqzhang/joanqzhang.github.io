@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is markdown file (md) that you can easily edit your webpages
+We are interested in understanding the interactions of microbes and trace metals in the environment. 
 You can insert links directing to other papges within the website such as [*Research*](research.md)
 or other website such as [*OCES website*](https://oces.hkust.edu.hk)
 
