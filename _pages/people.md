@@ -48,7 +48,8 @@ Email:yunyunpan@ust.hk &nbsp; &nbsp; &nbsp;
 
 ## Past Members
 <br/>
-**Tong Li**: Research Assistant (2022)
+
+**Tong Li** Research Assistant (2022)
 
 
 
