@@ -17,7 +17,7 @@ I am a biogeochemist interested in understanding the interactions of the biosphe
 -->
 [Email](mailto:qiongz@ust.hk) &nbsp; &nbsp; &nbsp; 
 
-<br/> <br/>
+<br/><br/>
 <img align="left" style="float: left; padding-right: 30px;" src="/images/huangle.png" width="140" height="140">  **Le Huang**
 <br/>
 PhD Student\
@@ -26,7 +26,7 @@ I am a PhD student studying marine environmental science.
 -->
 [Email](mailto:lhuangbu@connect.ust.hk) &nbsp; &nbsp; &nbsp;  
 
-<br/>
+<br/><br/>
 <img align="left" style="float: left; padding-right: 30px;" src="/images/Maqun.jpg" width="140" height="140">  **Qun Ma**
 <br/>
 MPhil Student\
@@ -35,7 +35,7 @@ My research focuses on how environmental factors affect the global distribution 
 -->
 [Email](mailto:qmaat@connect.ust.hk) &nbsp; &nbsp; &nbsp; 
 
-<br/>
+<br/><br/>
 <img align="left" style="float: left; padding-right: 30px;" src="/images/Panyunyun.png" width="140" height="140">  **Yunyun Pan**
 <br/>
 Research Assistant\
