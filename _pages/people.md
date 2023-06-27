@@ -25,17 +25,17 @@ PhD Student\
 <!---
 I am a PhD student studying marine environmental science. 
 -->
-[Email](mailto:lhuangbu@connect.ust.hk)&nbsp; &nbsp; &nbsp;  
+[Email](mailto:lhuangbu@connect.ust.hk) &nbsp; &nbsp; &nbsp;  
 
 <br/>
-<img align="left" style="float: left; padding-right: 30px;" src="/images/Maqun.png" width="140" height="140">  **Qun Ma**
+<img align="left" style="float: left; padding-right: 30px;" src="/images/Maqun.jpg" width="140" height="140">  **Qun Ma**
 <br/>
 MPhil Student 
 <br/>
 <!---
 My research focuses on how environmental factors affect the global distribution of Coccolithophores and models used to predict the ecological nich shift of phytoplankton in the future. Also, I am very interested in the distribution of different trace metals in coastal waters and oceans.
 -->
-[Email](mailto:lhuangbu@connect.ust.hk)&nbsp; &nbsp; &nbsp; 
+[Email](mailto:qmaat@connect.ust.hk) &nbsp; &nbsp; &nbsp; 
 
 <br/>
 <img align="left" style="float: left; padding-right: 30px;" src="/images/Panyunyun.png" width="140" height="140">  **Yunyun Pan**
@@ -45,17 +45,10 @@ Research Assistant
 <!---
 I am a graduate master's student from Sichuan University, majoring in Biology Engineering, especially microalgae. 
 -->
-[Email](mailto:yunyunpan@ust.hk)&nbsp; &nbsp; &nbsp; 
+[Email](mailto:yunyunpan@ust.hk) &nbsp; &nbsp; &nbsp; 
 
 <br/>
 
-Previous group members
-<img align="left" style="float: left; padding-right: 30px;" src="/images/litong.png" width="140" height="140">  **Tong Li**
-<br/>
-Research Assistant 
-<br/>
-<!---
--->
 
 
 
