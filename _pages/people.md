@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 <br/><br/>
-<img align="left" style="float: left; padding-right: 30px;" src="/images/profile.png" width="160" height="160">  **Dr. Qiong Zhang (PI)**
+<img align="right" style="float: left; padding-right: 30px;" src="/images/profile.png" width="160" height="160">  **Dr. Qiong Zhang (PI)**
 <br/>
 Assistant Professor 
 <br/><br/>
@@ -18,16 +18,16 @@ I am a biogeochemist interested in understanding the interactions of the biosphe
 Email:qiongz@ust.hk &nbsp; &nbsp; &nbsp; 
 
 <br/><br/>
-<img align="left" style="float: left; padding-right: 30px;" src="/images/huangle.png" width="160" height="160">  **Le Huang**
+<img align="right" style="float: left; padding-right: 30px;" src="/images/huangle.png" width="160" height="160">  **Le Huang**
 <br/>
 PhD Student (2022-now)
 <br/><br/>
 I am a PhD student studying marine environmental science. 
-<br/><br/><br/><br/>
+<br/><br/>
 Email:lhuangbu@connect.ust.hk &nbsp; &nbsp; &nbsp;  
 
 <br/><br/><br/>
-<img align="left" style="float: left; padding-right: 30px;" src="/images/Maqun.jpg" width="160" height="160">  **Qun Ma**
+<img align="right" style="float: left; padding-right: 30px;" src="/images/Maqun.jpg" width="160" height="160">  **Qun Ma**
 <br/>
 MPhil Student (2023-now)
 <br/><br/>
@@ -36,12 +36,12 @@ My research focuses on how environmental factors affect the global distribution 
 Email:qmaat@connect.ust.hk &nbsp; &nbsp; &nbsp; 
 
 <br/><br/>
-<img align="left" style="float: left; padding-right: 30px;" src="/images/Panyunyun.png" width="160" height="160">  **Yunyun Pan**
+<img align="right" style="float: left; padding-right: 30px;" src="/images/Panyunyun.png" width="160" height="160">  **Yunyun Pan**
 <br/>
 Research Assistant (2023-now)
 <br/><br/>
 I am a graduate master's student from Sichuan University, majoring in Biology Engineering, especially microalgae. 
-<br/><br/><br/><br/>
+<br/><br/>
 Email:yunyunpan@ust.hk &nbsp; &nbsp; &nbsp; 
 
 <br/><br/><br/>
