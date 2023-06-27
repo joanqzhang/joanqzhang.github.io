@@ -8,14 +8,15 @@ author_profile: true
 
 {% include base_path %}
 
+###People
 
-<img align="left" style="float: left; padding-right: 30px;" src="/images/profile.png" width="160" height="160">  **Dr. Joan Zhang (PI)**
+<img align="left" style="float: left; padding-right: 30px;" src="/images/profile.png" width="160" height="160">  **Dr. Qiong Zhang (PI)**
 <br/>
 Assistant Professor 
 <br/>
 I am a biogeochemist interested in understanding the interactions of the biosphere and the environment. I focus on studying the biogeochemical prcesses that control the cycling of various trace elements and how different environmental conditions can impact on the marine ecosystem. 
 <br/>
-<br/>Email:qiongz@ust.hk &nbsp; &nbsp; &nbsp; 
+Email:qiongz@ust.hk &nbsp; &nbsp; &nbsp; 
 
 <br/><br/>
 <img align="left" style="float: left; padding-right: 30px;" src="/images/huangle.png" width="160" height="160">  **Le Huang**
@@ -26,7 +27,7 @@ I am a PhD student studying marine environmental science.
 <br/>
 Email:lhuangbu@connect.ust.hk) &nbsp; &nbsp; &nbsp;  
 
-<br/><br/>
+<br/><br/><br/>
 <img align="left" style="float: left; padding-right: 30px;" src="/images/Maqun.jpg" width="160" height="160">  **Qun Ma**
 <br/>
 MPhil Student (2023-now)
@@ -44,9 +45,11 @@ I am a graduate master's student from Sichuan University, majoring in Biology En
 <br/>
 Email:yunyunpan@ust.hk) &nbsp; &nbsp; &nbsp; 
 
+<br/><br/><br/>
 
-
-
+##Past Members
+<br/>
+**Tong Li**: Research Assistant (2022)
 
 
 
