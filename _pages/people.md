@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 
-<img align="left" style="float: left; padding-right: 30px;" src="/images/profile.png" width="140" height="140">  **Dr. Joan Zhang (PI)**
+<img align="left" style="float: left; padding-right: 30px;" src="/images/profile.png" width="140" height="160">  **Dr. Joan Zhang (PI)**
 <br/>
 Assistant Professor 
 <br/>
