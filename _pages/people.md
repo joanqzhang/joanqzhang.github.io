@@ -8,7 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-###People
 
 <img align="left" style="float: left; padding-right: 30px;" src="/images/profile.png" width="160" height="160">  **Dr. Qiong Zhang (PI)**
 <br/>
@@ -47,7 +46,7 @@ Email:yunyunpan@ust.hk) &nbsp; &nbsp; &nbsp;
 
 <br/><br/><br/>
 
-###Past Members
+Past Members
 <br/>
 **Tong Li**: Research Assistant (2022)
 
