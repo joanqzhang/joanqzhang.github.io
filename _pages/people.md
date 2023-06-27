@@ -15,7 +15,7 @@ Assistant Professor
 <br/>
 I am a biogeochemist interested in understanding the interactions of the biosphere and the environment. I focus on studying the biogeochemical prcesses that control the cycling of various trace elements and how different environmental conditions can impact on the marine ecosystem. 
 <br/>
-Email:qiongz@ust.hk &nbsp; &nbsp; &nbsp; 
+<br/>Email:qiongz@ust.hk &nbsp; &nbsp; &nbsp; 
 
 <br/><br/>
 <img align="left" style="float: left; padding-right: 30px;" src="/images/huangle.png" width="160" height="160">  **Le Huang**
