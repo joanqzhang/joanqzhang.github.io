@@ -13,29 +13,50 @@ author_profile: true
 <br/>
 Assistant Professor\
 <!---
-some discription about Joan here.
+I am a biogeochemist interested in understanding the interactions of the biosphere and the environment. I focus on studying the biogeochemical prcesses that control the cycling of various trace elements and how different environmental conditions can impact on the marine ecosystem. 
+
 -->
-[Email](mailto:qiongz@ust.hk) &nbsp; &nbsp; &nbsp; [CV](/files/JoanCV.pdf)
+[Email](mailto:qiongz@ust.hk) &nbsp; &nbsp; &nbsp; 
 
 <br/>
 <img align="left" style="float: left; padding-right: 30px;" src="/images/huangle.png" width="140" height="140">  **Le Huang**
 <br/>
 PhD Student\
 <!---
-some discription about Le here.
+I am a PhD student studying marine environmental science. 
 -->
-[Email](mailto:lhuangbu@connect.ust.hk)
+[Email](mailto:lhuangbu@connect.ust.hk)&nbsp; &nbsp; &nbsp;  
 
 <br/>
+<img align="left" style="float: left; padding-right: 30px;" src="/images/Maqun.png" width="140" height="140">  **Qun Ma**
+<br/>
+MPhil Student 
+<br/>
+<!---
+My research focuses on how environmental factors affect the global distribution of Coccolithophores and models used to predict the ecological nich shift of phytoplankton in the future. Also, I am very interested in the distribution of different trace metals in coastal waters and oceans.
+-->
+[Email](mailto:lhuangbu@connect.ust.hk)&nbsp; &nbsp; &nbsp; 
+
+<br/>
+<img align="left" style="float: left; padding-right: 30px;" src="/images/Panyunyun.png" width="140" height="140">  **Yunyun Pan**
+<br/>
+Research Assistant
+<br/>
+<!---
+I am a graduate master's student from Sichuan University, majoring in Biology Engineering, especially microalgae. 
+-->
+[Email](mailto:yunyunpan@ust.hk)&nbsp; &nbsp; &nbsp; 
+
+<br/>
+
+Previous group members
 <img align="left" style="float: left; padding-right: 30px;" src="/images/litong.png" width="140" height="140">  **Tong Li**
 <br/>
 Research Assistant 
 <br/>
 <!---
-some discription about Tong here.
 -->
 
-<br/>
 
 
 
