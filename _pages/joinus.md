@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 We always welcome creative and self-motivated students, postdocs, and visiting researchers to join our team. 
-To inquire, please contact is via [email](mailto:qiongz@ust.hk).
+To inquire, please contact us via [email](mailto:qiongz@ust.hk).
  <br/><br/>
 
 ### Graduate Students (PhD, MPhil)
