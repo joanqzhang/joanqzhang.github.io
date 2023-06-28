@@ -48,7 +48,7 @@ Email: [yunyunpan@ust.hk](mailto:yunyunpan@ust.hk) &nbsp; &nbsp; &nbsp;
 
 ## Past Members
 <br/>
-**Wenjing Zhou** MSc in Environmental Health & Safety (graduated in 2023)
+**Wenjing Zhou** MSc in Environmental Health & Safety (graduated in 2023)\
 **Tong Li** Research Assistant (2022)
 
 
