@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 <br/><br/>
-<img align="right" style="float: right; padding-left: 20px;" src="/images/Joanzhang.png" width="200" height="200">  **Dr. Qiong Zhang (PI)**
+<img align="right" style="float: right; padding-left: 20px;" src="/images/Joanzhang.png" width="200" height="200">  **Dr. Qiong (Joan) Zhang (PI)**
 <br/>
 Assistant Professor 
 <br/><br/>
@@ -22,7 +22,7 @@ Email: [qiongz@ust.hk](mailto:qiongz@ust.hk) &nbsp; &nbsp; &nbsp;
 <br/>
 PhD Student (2022-now)
 <br/><br/>
-I am a PhD student studying marine environmental science. 
+Le obtained a Bachelor of Science in Marine Science from Xiamen University. Then she studied as an MSc student in Marine Systems and Policies at the University of Edinburgh. As her MSc project, she was interested in mapping the habitat suitability of marine ecosystems. Her research interests in marine science drive her to pursue a Ph.D. Le now works toward her Ph.D. in Marine Environmental Sciences at HKUST. She is developing a focus on the interplay of trace metal and light intensity on the growth and photosynthesis of marine phytoplankton.
 <br/><br/>
 Email: [lhuangbu@connect.ust.hk](mailto:lhuangbu@connect.ust.hk) &nbsp; &nbsp; &nbsp;  
 
