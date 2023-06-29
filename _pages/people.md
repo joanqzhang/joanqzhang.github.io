@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 <br/><br/>
-<img align="right" style="float: right; padding-left: 20px;" src="/images/Joanzhang.png" width="200" height="200">  **Dr. Qiong (Joan) Zhang**
+<img align="right" style="float: right; padding-left: 20px;" src="/images/Joanzhang2.png" width="200" height="200">  **Dr. Qiong (Joan) Zhang**
 <br/>
 Assistant Professor, PI 
 <br/><br/>
