@@ -23,8 +23,8 @@ Our group has access to the following key facilities:
 <br/><br/>
 **Cleansuite** and **MC-ICP-MS** for trace metal stable isotope analysis (available in 2024).
 <br/><br/>
-**Other necessary facilities** available in HKUST including EMs, coulter counter, multi-mode plate reader, Phyto-PAM, CHN Elemental Analyser, facilities for proteomic analysis, and High Performance Computing Cluster.
+**Other necessary facilities** available in HKUST are including EMs, coulter counter, multi-mode plate reader, Phyto-PAM, CHN Elemental Analyser, facilities for proteomic analysis, and High Performance Computing Cluster.
 <br/><br/><br/>
-Our current projects can be found in [here](research.md). Please feel free to contact us if you are interested in [joining the group](joinus.md) or for [future collaboration](mailto:qiongz@ust.hk).  
+Our current projects can be found [here](research.md). Please feel free to contact us if you are interested in [joining the group](joinus.md) or for [future collaboration](mailto:qiongz@ust.hk).  
 
 
