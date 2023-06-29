@@ -8,32 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-We are interested in understanding the interactions of microbes and trace metals in the environment. 
-You can insert links directing to other papges within the website such as [*Research*](research.md)
-or other website such as [*OCES website*](https://oces.hkust.edu.hk)
+**HKUST Geobiology Group** was estabilished in 2022. We are interested in understanding the interactions of biosphere and the geosphere. Particularly, we now have a strong focus on trace metal biogeochemstry. We use laboratory measurements and quantitative models to understand a range of processes governing trace metal distribution and isotope ratios in various biological and environmental systems. 
 
-## Header two
+Our group has access to the following key facilities:
+**Incubators**: several light incubators that are dedicated to the team for culturing experiments.
+**Trace-metal-free laminar flow cabinets**: one polycarbonate made laminar flow biological safety hood that is dedicated to trace-metal-free biological work and a polycarbonate made laminar flow extraction hood that is specifically for sample preparation (e.g., cell digestion) for trace metal analysis.
+**Acid-purification system**: two DST-4000 acid purification systems to produce high-purity acids for cleaning plasticware, sample digestion, and trace metal analysis.
+**Inductively coupled plasma mass spectrometry (ICP-MS)**: a new NEXION 5000 ICP-MS coupled with single cell introduction system for analysing the metallomes of phytoplankton.
+**Cleansuite** and **MC-ICP-MS** for trace metal stable isotope analysis (available in 2024).
+Other necessary facilities available in HKUST: EMs, coulter counter, multi-mode plate reader, Phyto-PAM, CHN Elemental Analyser, facilities for proteomic analysis, and High Performance Computing Cluster.
 
-### Header three
-Text here text here text here\
-text here text here text here
+Our current projects can be found in [*Research*](research.md). Please feel free to contact us if you are interested in [*joining the group*](joinus.md) or for [*future collabration*](mailto:qiongz@ust.hk).  
 
-### Header three
-text here text here text here\
-<img align="left" src="/images/LakeSuperior.png" width="240" height="180"> 
-You can set the size of the images by using html to insert the image.  
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-#### Header four
-If you use simple markdown to insert image, the image will show in it's original size. 
-![Lake Superior](/images/LakeSuperior.png)
-
-##### Header five
-
-###### Header six
 
