@@ -11,7 +11,7 @@ redirect_from:
 **HKUST Geobiology Group** was estabilished in 2022. We are interested in understanding the interactions of biosphere and the geosphere. Particularly, we now have a strong focus on trace metal biogeochemstry. We use laboratory measurements and quantitative models to understand a range of processes governing trace metal distribution and isotope ratios in various biological and environmental systems. 
 <br/>
 <br/>
-Our group has access to the following key facilities:
+Our group has access to the following key facilities:\
 <br/>
 **Incubators**: several light incubators that are dedicated to the team for culturing experiments.\
 
